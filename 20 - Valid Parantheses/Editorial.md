@@ -2,7 +2,7 @@
 
 ### Intuition
 
-This problem teaches us how to use a specific data structure - the *stack*.
+This problem teaches us how to use a specific data structure—the *stack*.
 
 How do we know that we need to use a stack?
 
