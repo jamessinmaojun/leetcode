@@ -12,9 +12,9 @@ class Solution:
       m = l + ((r - l) // 2)
       curr = nums[m]
 
-      if curr < target:
+      if target < curr:
         l = m + 1
-      elif curr > target:
+      elif target > curr:
         r = m - 1
       else:
         return m
